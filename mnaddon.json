@@ -1,0 +1,8 @@
+{
+    "addonid": "marginnote.extension.excalidraw",
+    "author": "xiehengjian",
+    "title": "Excalidraw",
+    "version": "0.0.1",
+    "marginnote_version_min": "3.6.8",
+    "cert_key": ""
+}
